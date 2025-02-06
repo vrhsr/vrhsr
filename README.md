@@ -14,7 +14,27 @@
 - Interested in **Finance, Fintech, Healthcare, and Digital Security domains**  
 
 ---
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/3o6Ygfw40tlnPhX87m/giphy.gif?cid=790b7611sg255bfa5vy5ndp0ru01bb7rl2ebcrzuebsct8i7&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif">
+
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/3o6Zt7kJ2qsv0YvnfO/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/xT5LMv1nMu8Aqx8F7O/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/5JmWmKoD67yFI7TaUP/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/1z6D0FZSpb9DW/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/xT0xezAemq5ShyI7EA/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/3oFzmi9XyP7dRsgK0g/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/3o6Mb70Su9MJ5YfT0M/giphy.gif">
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateramanan2002&label=Profile%20views&color=0e75b6&style=flat" alt="venkateramanan2002" /> </p>
