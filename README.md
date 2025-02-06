@@ -14,16 +14,8 @@
 - Interested in **Finance, Fintech, Healthcare, and Digital Security domains**  
 
 ---
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif">
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/3o6Zt7kJ2qsv0YvnfO/giphy.gif">
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/xT5LMv1nMu8Aqx8F7O/giphy.gif">
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/5JmWmKoD67yFI7TaUP/giphy.gif">
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/1z6D0FZSpb9DW/giphy.gif">
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/xT0xezAemq5ShyI7EA/giphy.gif">
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/3oFzmi9XyP7dRsgK0g/giphy.gif">
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/3o6Mb70Su9MJ5YfT0M/giphy.gif">
-
 
 
 
