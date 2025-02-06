@@ -15,13 +15,9 @@
 
 ---
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/1z6D0FZSpb9DW/giphy.gif">
 
 
-
-
-
-
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5nbnluNXBibGUzdXFyNnFiN3VraDJwbG9xbWxkOHo0ajhncXp4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 
 
