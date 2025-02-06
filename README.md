@@ -13,10 +13,12 @@
 ## 🔬 About Me
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <p style="flex: 1;">Passionate about **Data Science, AI/ML, and Big Data Analytics**  
+  <p style="flex: 1;"> 
+  - Passionate about **Data Science, AI/ML, and Big Data Analytics**  
   - Preparing for **placements & a PhD in AI/ML or Data Science**  
   - Exploring **Hackathons & Research in Predictive Analytics**  
-  - Interested in **Finance, Fintech, Healthcare, and Digital Security domains**</p>
+  - Interested in **Finance, Fintech, Healthcare, and Digital Security domains**
+  </p>
 
   <img src="https://komarev.com/ghpvc/?username=vrhsr&label=Profile%20views&color=0e75b6&style=flat" alt="vrhsr" />
 </div>
@@ -53,19 +55,18 @@
 
 
 ---
+<p align="left">
+  <a href="https://github.com/vrhsr/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=vrhsr" />
+  </a>
+</p>
 
+<p align="right">
+  <a href="https://github.com/vrhsr/convoychat">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=vrhsr&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</p>
 
-
-
-
-
-
-<a href="https://github.com/vrhsr/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vrhsr" />
-</a>
-<a href="https://github.com/vrhsr/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrhsr&layout=compact&langs_count=8&card_width=320" />
-</a>
 
 ---
 ⭐ **Feel free to check out my repositories and collaborate!**
