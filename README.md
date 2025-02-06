@@ -145,3 +145,9 @@
 </p>
 
 ⭐ **Feel free to check out my repositories and collaborate!**
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrhsr)](https://github.com/vrhsr/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vrhsr&show_icons=true&theme=radical)
