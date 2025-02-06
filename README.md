@@ -18,7 +18,7 @@
   - Exploring **Hackathons & Research in Predictive Analytics**  
   - Interested in **Finance, Fintech, Healthcare, and Digital Security domains**</p>
 
-  <img src="https://komarev.com/ghpvc/?username=venkateramanan2002&label=Profile%20views&color=0e75b6&style=flat" alt="venkateramanan2002" />
+  <img src="https://komarev.com/ghpvc/?username=vrhsr&label=Profile%20views&color=0e75b6&style=flat" alt="vrhsr" />
 </div>
 
 
