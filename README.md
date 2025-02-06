@@ -12,13 +12,14 @@
 
 ## 🔬 About Me
 
-- Passionate about **Data Science, AI/ML, and Big Data Analytics**  
-- Preparing for **placements & a PhD in AI/ML or Data Science**  
-- Exploring **Hackathons & Research in Predictive Analytics**  
-- Interested in **Finance, Fintech, Healthcare, and Digital Security domains**  
- <img src="https://komarev.com/ghpvc/?username=venkateramanan2002&label=Profile%20views&color=0e75b6&style=flat" alt="venkateramanan2002" />
-  </p>
----
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <p style="flex: 1;">Passionate about **Data Science, AI/ML, and Big Data Analytics**  
+  - Preparing for **placements & a PhD in AI/ML or Data Science**  
+  - Exploring **Hackathons & Research in Predictive Analytics**  
+  - Interested in **Finance, Fintech, Healthcare, and Digital Security domains**</p>
+
+  <img src="https://komarev.com/ghpvc/?username=venkateramanan2002&label=Profile%20views&color=0e75b6&style=flat" alt="venkateramanan2002" />
+</div>
 
 
 
