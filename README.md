@@ -42,25 +42,15 @@
 
 ## 📌 Current Projects  
 
-<p align="left">
+
 🚑 <strong>AI-powered Health Risk Prediction</strong> (Heart Attack Prediction)  
   - Collaborating with a <strong>team of 4</strong>  
   - Working on <strong>Data Science and Predictive Modeling</strong>  
   - Leveraging <strong>Machine Learning & Big Data techniques</strong>  
 </p>
 
-<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrhsr&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
 
-
-## 🛠 Tech Stack
-
-- **Languages:** C, Java, JavaScript, Python  
-- **Web Development:** HTML, CSS, Bootstrap, Tailwind CSS, Express.js  
-- **Databases:** MongoDB, SQL, Firebase  
-- **Data Science & ML:** Pandas, Matplotlib, Seaborn, Hypothesis Testing, Regression Analysis, ANOVA, Deep Learning, TensorFlow  
-- **Frameworks & Tools:** AWS, Git, Apache Spark, Hadoop, Redux, Firebase, Docker, Hugging Face Transformers  
 
 ---
 
