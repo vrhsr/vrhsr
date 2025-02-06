@@ -22,6 +22,11 @@
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5nbnluNXBibGUzdXFyNnFiN3VraDJwbG9xbWxkOHo0ajhncXp4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
+
+
+
+
+
 ## 🛠 Tech Stack
 
 - **Languages:** C, Java, JavaScript, Python  
@@ -30,8 +35,7 @@
 - **Data Science & ML:** Pandas, Matplotlib, Seaborn, Hypothesis Testing, Regression Analysis, ANOVA, Deep Learning, TensorFlow  
 - **Frameworks & Tools:** AWS, Git, Apache Spark, Hadoop, Redux, Firebase, Docker, Hugging Face Transformers  
 
-<p>---</p>
---- 
+---
 
 ## 📌 Current Projects  
 
