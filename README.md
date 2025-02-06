@@ -51,21 +51,18 @@
   - Leveraging <strong>Machine Learning & Big Data techniques</strong>  
 </p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrhsr&theme=tokyonight" alt="GitHub Streak Stats" />
 
 
 ---
-<p align="left">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://github.com/vrhsr/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=vrhsr" />
   </a>
-</p>
 
-<p align="right">
   <a href="https://github.com/vrhsr/convoychat">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=vrhsr&layout=compact&langs_count=8&card_width=320" />
   </a>
-</p>
+</div>
 
 
 ---
