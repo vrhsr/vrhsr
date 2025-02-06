@@ -149,5 +149,4 @@
 
 
 ![Venkate's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhsr&show_icons=true&theme=transparent)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vrhsr&repo=github-readme-stats)](https://github.com/vrhsr/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrhsr&layout=compact)
