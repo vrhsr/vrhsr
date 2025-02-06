@@ -51,11 +51,31 @@
 ---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vrhsr&" alt="vrhsr" /></p>
 <h3 align="left">Connect with me:</h3>
+## 📫 Connect with Me  
 
 <p align="left">
 
-<a href="https://linkedin.com/in/vrhsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkate.me/linkedin" height="30" width="40" /></a>
+<a href="https://github.com/vhrsr" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
+<a href="https://linkedin.com/in/vrhsr" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:mvrhsr@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://www.youtube.com/channel/UCGiSfca_q6XRDcj4p67xojg" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+
+<a href="https://www.leetcode.com/mvrhsr" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+
+</p>
 
 ⭐ **Feel free to check out my repositories and collaborate!**
 
