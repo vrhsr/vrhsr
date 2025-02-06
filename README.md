@@ -14,9 +14,8 @@
 - Interested in **Finance, Fintech, Healthcare, and Digital Security domains**  
 
 ---
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/1z6D0FZSpb9DW/giphy.gif">
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/5JmWmKoD67yFI7TaUP/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateramanan2002&label=Profile%20views&color=0e75b6&style=flat" alt="venkateramanan2002" /> </p>
 
