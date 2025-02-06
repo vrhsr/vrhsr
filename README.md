@@ -80,11 +80,13 @@
 
 <a href="https://github.com/vrhsr/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vrhsr" />
-</a>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrhsr&layout=compact)
 
 
 
 
+<a href="https://github.com/vrhsr/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vrhsr" />
+</a>
 
 
 
