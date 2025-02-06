@@ -40,21 +40,18 @@
 
 ---
 
-
 ## 📌 Current Projects  
 
-<div align="left">
+<p align="left">
+🚑 <strong>AI-powered Health Risk Prediction</strong> (Heart Attack Prediction)  
+  - Collaborating with a <strong>team of 4</strong>  
+  - Working on <strong>Data Science and Predictive Modeling</strong>  
+  - Leveraging <strong>Machine Learning & Big Data techniques</strong>  
+</p>
 
-🚑 **AI-powered Health Risk Prediction** (Heart Attack Prediction)  
-  - Collaborating with a **team of 4**  
-  - Working on **Data Science and Predictive Modeling**  
-  - Leveraging **Machine Learning & Big Data techniques**  
-
-</div>  
-
-<div align="right">
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrhsr&theme=tokyonight" alt="GitHub Streak Stats" />
-</div>
+</p>
 
 
 ## 🛠 Tech Stack
