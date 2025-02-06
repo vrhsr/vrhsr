@@ -15,12 +15,19 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkateramanan2002&show_icons=true&locale=en&layout=compact" alt="venkateramanan2002" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkateramanan2002&show_icons=true&locale=en" alt="venkateramanan2002" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkateramanan2002&" alt="venkateramanan2002" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrhsr&show_icons=true&locale=en&layout=compact" alt="vrhsr" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vhrsr&show_icons=true&locale=en" alt="vrhsr" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vrhsr&" alt="vrhsr" /></p>
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/venkate-ramanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkate.me/linkedin" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/vrhsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkate.me/linkedin" height="30" width="40" /></a>
+
 <a href="https://www.youtube.com/channel/UCGiSfca_q6XRDcj4p67xojg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="venkate.me/youtube" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mvrhsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="venkate.me/leetcode" height="30" width="40" /></a>
 </p>
