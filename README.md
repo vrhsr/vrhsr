@@ -17,7 +17,7 @@
     </ul>
   </div>
   
-  <img src="https://komarev.com/ghpvc/?username=vrhsr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=venkateramanan2002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5nbnluNXBibGUzdXFyNnFiN3VraDJwbG9xbWxkOHo0ajhncXp4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
