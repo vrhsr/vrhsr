@@ -50,12 +50,12 @@
 
 ---
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://github.com/vrhsr/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=vrhsr" />
+  <a href="https://github.com/vrhsr/github-readme-stats" style="margin-right: 20px;">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=vrhsr" />
   </a>
 
-  <a href="https://github.com/vrhsr/convoychat">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=vrhsr&layout=compact&langs_count=8&card_width=320" />
+  <a href="https://github.com/vrhsr/convoychat" style="margin-left: 20px;">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrhsr&layout=compact&langs_count=8&card_width=320" />
   </a>
 </div>
 
