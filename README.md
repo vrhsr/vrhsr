@@ -6,23 +6,19 @@
 
 ---
 
-<p align="right" width="400" >
-
-
-
 ## 🔬 About Me
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <p style="flex: 1;"> 
-  - Passionate about **Data Science, AI/ML, and Big Data Analytics**  
-  - Preparing for **placements & a PhD in AI/ML or Data Science**  
-  - Exploring **Hackathons & Research in Predictive Analytics**  
-  - Interested in **Finance, Fintech, Healthcare, and Digital Security domains**
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=vrhsr&label=Profile%20views&color=0e75b6&style=flat" alt="vrhsr" />
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <div style="flex: 1; padding-right: 20px;">
+    <ul>
+      <li>Passionate about <strong>Data Science, AI/ML, and Big Data Analytics</strong></li>
+      <li>Aiming for a career in <strong>AI/ML, Data Science</strong>, with an interest in <strong>Predictive Analytics</strong></li>
+      <li>Exploring <strong>Hackathons & Research in Predictive Analytics</strong></li>
+      <li>Interested in <strong>Finance, Fintech, Healthcare, and Digital Security</strong> domains</li>
+    </ul>
+  </div>
+  
+  <img src="https://komarev.com/ghpvc/?username=vrhsr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
-
 
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5nbnluNXBibGUzdXFyNnFiN3VraDJwbG9xbWxkOHo0ajhncXp4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
