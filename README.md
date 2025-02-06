@@ -73,20 +73,8 @@
 
 
 
-⭐ **Feel free to check out my repositories and collaborate!**
 
 
-
-
-<a href="https://github.com/vrhsr/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vrhsr" />
-
-
-
-
-<a href="https://github.com/vrhsr/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vrhsr" />
-</a>
 
 
 <a href="https://github.com/vrhsr/github-readme-stats">
@@ -97,12 +85,7 @@
 </a>
 
 
+⭐ **Feel free to check out my repositories and collaborate!**
 
 
-<a href="https://github.com/vrhsr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vrhsr&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/vrhsr/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vrhsr&repo=convoychat" />
-</a>
 
