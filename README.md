@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm M Venkate Ramanan
+# Hi there! 👋 I'm M Venkateramanan Manivannan
 
 🎓 **Master's in Big Data Analytics @ VIT**  
 💡 **Aspiring Data Scientist | AI/ML Enthusiast**  
